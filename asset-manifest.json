@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kungfumas.github.io/csb-hsn59/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://kungfumas.github.io/csb-hsn59/static/js/main.fd20275d.chunk.js",
+    "main.js.map": "https://kungfumas.github.io/csb-hsn59/static/js/main.fd20275d.chunk.js.map",
+    "runtime-main.js": "https://kungfumas.github.io/csb-hsn59/static/js/runtime-main.531324d3.js",
+    "runtime-main.js.map": "https://kungfumas.github.io/csb-hsn59/static/js/runtime-main.531324d3.js.map",
+    "static/js/2.2350909c.chunk.js": "https://kungfumas.github.io/csb-hsn59/static/js/2.2350909c.chunk.js",
+    "static/js/2.2350909c.chunk.js.map": "https://kungfumas.github.io/csb-hsn59/static/js/2.2350909c.chunk.js.map",
+    "index.html": "https://kungfumas.github.io/csb-hsn59/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://kungfumas.github.io/csb-hsn59/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2350909c.chunk.js.LICENSE.txt": "https://kungfumas.github.io/csb-hsn59/static/js/2.2350909c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.531324d3.js",
+    "static/js/2.2350909c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.fd20275d.chunk.js"
+  ]
+}
